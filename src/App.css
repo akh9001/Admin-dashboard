@@ -1,0 +1,19 @@
+/* Your custom styles go here */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,100;9..40,400;9..40,500&family=Rubik:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* For example, you can keep your existing styles */
+
+/* Import Tailwind CSS utilities */
+
+body {
+	font-family: DM Sans;
+	background-color: #F1F3F9;
+	color: #45464E;
+}
+
+.custom-bg-pink-color {
+	background-color: #D23565;
+	color: white;
+}
