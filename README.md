@@ -2,6 +2,8 @@
 
 Create a modern and intuitive admin dashboard landing page with a responsive grid layout. The dashboard comprises various informative cards and charts strategically positioned to present key metrics. Sales, customer data, order information, and product details are efficiently showcased. The layout includes visually appealing pie charts, bar charts, and dedicated sections for recent orders and abandoned carts. This project aims to offer administrators a comprehensive and visually engaging overview of critical data points, enhancing their ability to monitor and manage various aspects of the system.
 
+The figma link : (https://www.figma.com/file/Dj0GKuxiSafIDhFiu14wuv/Frontend-Interns-Test?node-id=1%3A2712&mode=dev)
+
 ## Getting Started
 
 Follow these steps to run the application locally.
